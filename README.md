@@ -35,7 +35,7 @@
    _Group_Size_ = total individuals present during the focal follow</br>
    _Year_ = year of the follow </br>
 3. **Stranding_Data_background_removed_by_Adult_Sex.csv** contains the stranding records during the UME with the background strandings removed for each adult sex class and state based on our methods</br>
-4. **Stranding_Data_background_removed_by_Age.csv** contains the stranding records during the UME with the background strandings removed for each adult sex class and state based on our methods.</br>
+4. **Stranding_Data_background_removed_by_Age.csv** contains the stranding records during the UME with the background strandings removed for adult and juvenile age classes and state based on our methods.</br>
 5. **PC_degree_distributions.csv** and **SB_degree_distributions.csv** are generated using code file 1. Each row represents a degree (e.g. row 1 = degree 0, row 2 = degree of 1, etc) and each column (AM, AF, JX) shows the proportion of that demographic that would have that degree over an average DMV infectious period.</br>
 6. **Mixing_Matrix_data_PC.csv** and  **Mixing_Matrix_data_SB.csv** are generated using code file 2. Column descriptions:</br>
    _Comb_: demo combination based on focal:contact</br>
