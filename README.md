@@ -45,7 +45,8 @@
    _Upper_: the upper estimate of that combination</br>
    _Mean_Ratio_: The proportion of all observed syncs that are of that combination acorss all follows </br>
    _SD-Ratio_: the std of that proportion </br>
-   _empirical_lower_ratio/upper_ratio_: the upper and lower bounds of that proportion </br></br>
+   _empirical_lower_ratio/upper_ratio_: the upper and lower bounds of that proportion </br>
+7. **generated_graphs**: a sub directory with all network files for 25 networks created based on PC data. All files in this sub directory were generated using code file 3 </br></br>
 
 ## Code Files:</br>
 
