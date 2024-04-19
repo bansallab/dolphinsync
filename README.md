@@ -24,7 +24,6 @@
 2. **Clean_Degree_Data_SB.csv** contains focal follow data from SB. Column descriptions:</br>
    _Follow_ID_ = unique ID for the focal follow conducted</br>
    _Dolphin-ID_ = unique ID of the focal dolphin</br>
-   _Protocol_ = type of follow being conducted based on SB definitions</br>
    _Demo_ = Demographic group: AM = Adult Male, AF= Adult Female, AFNN= Mother and neonate calf pair, AFNNN = mother and nonneonate calf pair, JX = juvenile</br>
    _Degree_ = total sync degree during follow</br>
    _AM_deg_ = total degree during follow that was an AM</br>
